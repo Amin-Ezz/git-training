@@ -1,1 +1,1 @@
-this the second file of the project
+this is the second file of the project
